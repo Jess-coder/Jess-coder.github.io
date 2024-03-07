@@ -1,7 +1,7 @@
 ---
 title: "Evaluating effective connectivity of trust in human–automation interaction: A dynamic causal modeling (DCM) study"
 collection: publications
-permalink: /publication/2022-Human-Factors
+permalink: /publication/2022 Human Factors
 excerpt: 'This paper is about trust in human-automation interaction.'
 date: 2022
 venue: 'Human Factors'
