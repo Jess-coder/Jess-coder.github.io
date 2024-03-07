@@ -11,35 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Industrial Engineering, North Carolina State University, 2023 
+* B.S. in Industrial Engineering, Shandong University, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023 - Present: Assistant Professor of Industrial Engineering and Engineering Management
+  * Western New England University
+  #* Duties includes: Updates and improvements to template
+  #* Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019 - 2020: Teaching Assistant
+  * North Carolina State University
+  * ISE 352: Fundamentals of Human-Machine Systems Design
+  * ISE 540: Human Factors In Systems Design
+    
+*  2021: Research Assistant
+  * North Carolinat State University
+  #* Duties included: Tagging issues
+  * Supervisor: Professor Chang S. Nam
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -47,11 +38,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+#Talks
+#======
+#  <ul>{% for post in site.talks reversed %}
+  #  {% include archive-single-talk-cv.html  %}
+  #{% endfor %}</ul>
   
 Teaching
 ======
@@ -59,6 +50,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams
