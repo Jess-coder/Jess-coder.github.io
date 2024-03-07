@@ -11,6 +11,6 @@ Hi there! I'm Jiali (Jessie) Huang. I am an assistant professor at the [Departme
 
 My research interest includes human factors, neuroergonomics; human-machine interaction; human cognition; neuroimaging, and neural disorder. 
 
-You can find my CV here: [Jessie Huang's Curriculum Vitae]().
+You can find my CV here: [Jessie Huang's Curriculum Vitae](../assets/JH_CV_2024.pdf).
 
 [Email](mailto:jiali.huang@wne.edu) /[Google Scholar](https://scholar.google.com/citations?user=VnNH4kAAAAAJ&hl=en)
