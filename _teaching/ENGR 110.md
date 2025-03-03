@@ -3,7 +3,7 @@ title: "ENGR 110 Data Acquisition & Processing"
 collection: teaching
 type: "Undergraduate course"
 #permalink: /teaching/2014-spring-teaching-1
-venue: "Western New England University, College of Engineering First Year Program, Fall 2023, 2024"
+venue: "Western New England University, College of Engineering First Year Program, Fall 2023 - 2024"
 location: "Springfield, MA"
 ---
 
